@@ -17,8 +17,8 @@ def segitigaExcel(kata):
                 sheet.write(i,k,kata[j])
                 k += 1
         book.close()
-# # segitigaKata('Purwadhika')
-# segitigaExcel('Purwadhika Startup and Coding School @BSD')
-segitigaExcel('kode')
-# segitigaExcel('kode python')
+segitigaKata('Purwadhika')
+segitigaExcel('Purwadhika Startup and Coding School @BSD')
+# segitigaExcel('kode')
+segitigaExcel('kode python')
 # segitigaExcel('Lintang')
